@@ -1,3 +1,2 @@
 # Konga
-I rebuilt the konga frontpage with the Opensource Twitter Bootstrap.
-You can download bootstrap at getbootstrap.com
+I rebuilt the Konga interface with the Opensource [Twitter Bootstrap](http://getbootstrap.com). [Konga](http://konga.com) is an ecommerce payment platform in Nigeria 
